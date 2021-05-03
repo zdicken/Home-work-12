@@ -1,0 +1,31 @@
+img {
+  height:200px;
+}
+
+.colors li:first-child {
+  color:yellow
+}
+
+.colors li:nth-child(2) {
+  color:red;
+}
+
+.colors li:nth-child(3) {
+  color:lime;
+}
+
+.fonts li:first-child {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.fonts li:nth-child(2) {
+  font-family: "Wingdings";
+}
+
+.fonts li:nth-child(3) {
+  font-family: "Lucida Bright";
+}
+
+.fonts li:nth-child(4) {
+  font-family: "Courier";
+}
